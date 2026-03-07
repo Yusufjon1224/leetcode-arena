@@ -1,2 +1,13 @@
-# leetcode-arena
-My LeetCode problem solving journey in Java (Easy, Medium, Hard).
+# LeetCode Arena
+
+This repository contains my solutions to LeetCode problems implemented in Java.
+
+## Structure
+
+- easy
+- medium
+- hard
+
+## Goal
+
+Improve data structures and algorithms skills for backend engineering interviews.
